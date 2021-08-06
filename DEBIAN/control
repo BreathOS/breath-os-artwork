@@ -1,0 +1,10 @@
+Package: breath-os-artwork
+Version: ${ver}
+Installed-Size: ${size}
+Maintainer: Roman Tolstosheyev <izobretatel777@mail.ru>
+Source: https://github.com/BreathOS/breath-os-artwork
+Homepage: https://breathos.github.io/
+Architecture: amd64
+Priority: optional
+Description: Default art set for Breath OS
+
